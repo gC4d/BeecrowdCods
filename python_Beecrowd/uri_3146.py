@@ -1,0 +1,1 @@
+print(f"{float(input()) * 6.28:.2f}")
